@@ -7,6 +7,9 @@ Our privacy policy will help you understand what information we collect at *ESS 
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
+### Information Collection and Use  
+ESS Hup collects location data to enable attendance feature only on when the app use. 
+
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
